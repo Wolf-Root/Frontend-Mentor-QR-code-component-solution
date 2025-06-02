@@ -1,0 +1,44 @@
+$slate-900: #1f314f;
+$slate-500: #68778d;
+$slate-300: #d5e1ef;
+
+body {
+    font-family: "Outfit", sans-serif;
+    background-color: $slate-300;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+main {
+    width: 290px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+main img {
+    width: 100%;
+    object-fit: contain;
+    border-radius: 20px;
+}
+
+main h1 {
+    color: $slate-900;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 120%;
+}
+
+main p {
+    padding: 0 4px;
+    color: $slate-500;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 140%;
+    letter-spacing: 0.2px;
+}
