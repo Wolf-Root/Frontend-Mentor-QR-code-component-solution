@@ -19,8 +19,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://github.com/Wolf-Root/Frontend-Mentor-QR-code-component-solution)
--   Live Site URL: [Add live site URL here](https://wolf-root.github.io/Frontend-Mentor-QR-code-component-solution/)
+## Links
+
+- [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/frontend-mentor---qr-code-component-solution-SBKq9tKAqW)
+- [Live Site](https://wolf-root.github.io/Frontend-Mentor-QR-code-component-solution/)
+
 
 ## My process
 
